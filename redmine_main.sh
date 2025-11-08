@@ -1,3 +1,5 @@
+# Comments about this script
+
 REDMINE_DIR='/var'
 REDMINE_VERSION='6.0.3'
 
